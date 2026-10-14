@@ -1,6 +1,5 @@
- <script>
-        function changeText() {
+        function changeText() 
+        {
             document.getElementById("message").innerHTML =
                 "Hello! JavaScript is working successfully!";
         }
-    </script>
